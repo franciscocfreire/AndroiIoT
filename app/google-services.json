@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418756775895",
+    "firebase_url": "https://trabalho-iot-android.firebaseio.com",
+    "project_id": "trabalho-iot-android",
+    "storage_bucket": "trabalho-iot-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418756775895:android:81673f0a9ac17a71",
+        "android_client_info": {
+          "package_name": "br.com.franciscofreire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418756775895-vtgth6bq9oh1mcbcdva962akqfua1n53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.franciscofreire",
+            "certificate_hash": "f3a75ee9ec9483e8e9770390aac7363791052f09"
+          }
+        },
+        {
+          "client_id": "418756775895-ua2qga79no1majf7ukjivrk93g2vaj9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOTId3xHvZqMmE_6rRW3mW7YUPSSR3kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418756775895-ua2qga79no1majf7ukjivrk93g2vaj9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
