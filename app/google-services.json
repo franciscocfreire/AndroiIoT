@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "418756775895-8ojkpooeu9osua3iqagpu3qanrbetitc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.franciscofreire",
+            "certificate_hash": "4461ff43ee2502ab8118697333fa5d7c3acabd57"
+          }
+        },
+        {
           "client_id": "418756775895-vtgth6bq9oh1mcbcdva962akqfua1n53.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
